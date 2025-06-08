@@ -4,6 +4,17 @@
 
 The AI-Driven Wellness Advisor is an AI-powered healthcare web application that predicts potential diseases based on user-input symptoms. By leveraging a Support Vector Classifier (SVC) model, this web application provides real-time health predictions and wellness advice. The application is built using Flask and integrates machine learning for seamless interaction.
 
+# Snapshots
+![Screenshot 2024-11-12 010643](https://github.com/user-attachments/assets/4666d1b4-7c07-4183-8e08-f1789ca3d528)
+![Screenshot 2024-11-12 010730](https://github.com/user-attachments/assets/cf6a0ce8-1610-45cd-a35d-bc5f5a3e281d)
+![Screenshot 2024-11-12 010850](https://github.com/user-attachments/assets/c5d171bc-e288-4513-929d-538403c5f23e)
+![Screenshot 2024-11-12 010933](https://github.com/user-attachments/assets/d44e5175-0028-4aca-bfb4-0701722ef93b)
+![Screenshot 2024-11-12 010953](https://github.com/user-attachments/assets/f64cda0d-6093-46f3-845c-5f9910dae1f3)
+![Screenshot 2024-11-12 011403](https://github.com/user-attachments/assets/afd42bd9-8f47-4b7f-9f23-8ed490d8d724)
+![Screenshot 2024-11-12 011439](https://github.com/user-attachments/assets/4ab4739d-c90b-4840-88ce-246abf29c79a)
+![Screenshot 2024-11-15 105641](https://github.com/user-attachments/assets/e1da38c8-42c8-4999-b3aa-dc8686649328)
+
+
 **Features**
 
 Real-time disease prediction based on symptoms.
